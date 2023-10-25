@@ -1,0 +1,15 @@
+/home/redrat/Documentos/c#-course-2/bin/Debug/net7.0/c#-course-2
+/home/redrat/Documentos/c#-course-2/bin/Debug/net7.0/c#-course-2.deps.json
+/home/redrat/Documentos/c#-course-2/bin/Debug/net7.0/c#-course-2.runtimeconfig.json
+/home/redrat/Documentos/c#-course-2/bin/Debug/net7.0/c#-course-2.dll
+/home/redrat/Documentos/c#-course-2/bin/Debug/net7.0/c#-course-2.pdb
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.csproj.AssemblyReference.cache
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.AssemblyInfoInputs.cache
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.AssemblyInfo.cs
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.csproj.CoreCompileInputs.cache
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.dll
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/refint/c#-course-2.dll
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.pdb
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/c#-course-2.genruntimeconfig.cache
+/home/redrat/Documentos/c#-course-2/obj/Debug/net7.0/ref/c#-course-2.dll
